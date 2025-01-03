@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+nltk
+pickle
+cosine-similarity
+requests

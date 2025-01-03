@@ -2,6 +2,7 @@ streamlit
 pandas
 numpy
 nltk
-pickle
+pickle5
 cosine-similarity
 requests
+scikit-learn
